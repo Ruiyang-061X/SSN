@@ -4,7 +4,7 @@ SSN
 Introduction
 -
 
-SSN is the abstraction of Structed Segment Network. SSN can be used to do action detection. Given a video, it can detect the actions contained in the video and tell the class, begin time and end time of these actions. The papar where SSN comes from is [Temporal Action Detection with Structured Segment Networks](http://arxiv.org/abs/1704.06228). The original code of SSN is [yjxiong/action-detection](https://github.com/yjxiong/action-detection). The code in this repository is basically based on [yjxiong/action-detection](https://github.com/yjxiong/action-detection).
+SSN is the abstraction of Structured Segment Network. SSN can be used to do action detection. Given a video, it can detect the actions contained in the video and tell the class, begin time and end time of these actions. The papar where SSN comes from is [Temporal Action Detection with Structured Segment Networks](http://arxiv.org/abs/1704.06228). The original code of SSN is [yjxiong/action-detection](https://github.com/yjxiong/action-detection). The code in this repository is basically based on [yjxiong/action-detection](https://github.com/yjxiong/action-detection).
 
 The general steps of deep learning are dataset, which is creating a structure to represent your data, model, which is a thing that is used to fit the data, train and test, train is making the model fit the data, test is using the model on unseen data and get the result.
 
